@@ -16,7 +16,7 @@ PS C:\Users\emrea\OneDrive> cd Desktop ile masaüstü dizisine gidin)
 kafka containerının ID'sini kopyalayın (name alanında kafka-1 yazan kısımdaki ID)
 
 4.ADIM Aşağıdaki koddaki YOURID kısmını 3.adımda kopyaladığınız ID ile degiştirin ve kodu çalıştırın.
-(Örneğin: docker exec -it 5442874ed9e7 /bin/bash=
+(Örneğin: docker exec -it 5442874ed9e7 /bin/bash)
 
 	docker exec -it YOURID /bin/bash
 
