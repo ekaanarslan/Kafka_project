@@ -11,7 +11,11 @@ komutun çalışması için docker-compose.yml dosyasının bulunduğu dizine do
 PS C:\Users\emrea> cd OneDrive
 PS C:\Users\emrea\OneDrive> cd Desktop ile masaüstü dizisine gidin)
 
-3.ADIM docker ps komutu ile çalışan containerları kontrol edin (3 tane olmalı)
+3.ADIM 
+
+	docker ps 
+ 
+komutu ile çalışan containerları kontrol edin (3 tane olmalı)
 
 kafka containerının ID'sini kopyalayın (name alanında kafka-1 yazan kısımdaki ID)
 
